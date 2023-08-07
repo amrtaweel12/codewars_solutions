@@ -1,3 +1,4 @@
+//This is the solution for Valid Braces challenge in Codewars
 function validBraces(braces){
     const openBraces = ['{','(','[']
     const closeBraces =['}',')',']']
